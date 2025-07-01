@@ -1,0 +1,15 @@
+body {
+  padding: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.container {
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0 2.5rem;
+  width: 100%;
+}

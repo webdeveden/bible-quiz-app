@@ -1,0 +1,964 @@
+[
+  {
+    "name": ["David"],
+    "clues": [
+      "A man agreeable to God's heart.",
+      "The second king of Israel",
+      "Jehovah promised his kingdom would be secure.",
+      "He struck down the giant Goliath."
+    ]
+  },
+  {
+    "name": ["Abraham"],
+    "clues": [
+      "He came to be called 'Jehovah's friend'.",
+      "Became a father at age 100.",
+      "He built an altar to Jehovah at bethel.",
+      "He sent his servant to find a wife for his son."
+    ]
+  },
+  {
+    "name": ["Solomon"],
+    "clues": [
+      "Nathan called him Jedidiah",
+      "Zadok anointed him as King",
+      "In his days, Silver was considered as nothing.",
+      "He build a house for Jehovah's name."
+    ]
+  },
+  {
+    "name": ["Timothy"],
+    "clues": [
+      "He was well-reported-on by the brothers in lystra and Iconium.",
+      "Paul always remembered him in his supplication.",
+      "He had unhypocritical faith.",
+      "Paul had no one else of a disposition like his."
+    ]
+  },
+  {
+    "name": ["Barak"],
+    "clues": [
+      "He was told Sisera would be given into his hand.",
+      "He said: 'if you go with me, I will go, but if you do not go with me, I will not go'.",
+      "He is listed second among those who through faith defeated kingdoms.",
+      "He sang a victory song with Deborah."
+    ]
+  },
+  {
+    "name": ["Jesus"],
+    "clues": [
+      "He is the permanent heir to David's throne.",
+      "He is the chief agent and Perfecter of our faith.",
+      "Crowds were astounded at his way of teaching.",
+      "He gave my life as a ransom in exchange for many."
+    ]
+  },
+  {
+    "name": ["Hannah"],
+    "clues": [
+      "A beloved wife of Elkanah.",
+      "She was a woman under great stress.",
+      "She prayed to Jehovah for a son and made a vow.",
+      "Out of great anguish and distress she spoke."
+    ]
+  },
+  {
+    "name": ["Korah"],
+    "clues": [
+      "He died when the fire consumed 250 men.",
+      "He rebelled against Moses, along with Dathan and Abiram."
+    ]
+  },
+  {
+    "name": ["Eutychus"],
+    "clues": [
+      "While in a deep sleep, he fell three stories and died.",
+      "He listened to Paul while seated in a window.",
+      "People were comforted when Paul resurrected him."
+    ]
+  },
+  {
+    "name": ["Mark"],
+    "clues": [
+      "He identified the one who helped cary Jesu's torture stake.",
+      "Peter called him 'my son'.",
+      "The cousin of Barnabas.",
+      "He wrote the shortest Gospel."
+    ]
+  },
+  {
+    "name": ["Gideon"],
+    "clues": [
+      "He built an alter called Jehovah-shalom.",
+      "At night he tore down the altar of baal.",
+      "His army was reduced to 300 men.",
+      "He made a test using a fleece of wool."
+    ]
+  },
+  {
+    "name": ["Saul"],
+    "clues": [
+      "He was young, handsome, and taller than all people.",
+      "A bad spirit from Jehovah terrorized him.",
+      "First King of Israel.",
+      "He felt obligated to offer up a burnt sacrifice."
+    ]
+  },
+  {
+    "name": ["Cain"],
+    "clues": [
+      "He said his punishment was too great to bear.",
+      "He was a cultivator of the ground.",
+      "God did not look with any favor on his offering.",
+      "He asked if he was his brother Guardian."
+    ]
+  },
+  {
+    "name": ["Abraham"],
+    "clues": [
+      "He came to be called 'Jehovah's friend'.",
+      "Became a father at age 100.",
+      "He built an altar to Jehovah at bethel.",
+      "He sent his servant to find a wife for his son."
+    ]
+  },
+  {
+    "name": ["Ruth"],
+    "clues": [
+      "Obed was her son.",
+      "She ate roasted grain handed to her.",
+      "Her Husband, Mahlon, died.",
+      "She was a moabitess."
+    ]
+  },
+  {
+    "name": ["Jezebel"],
+    "clues": [
+      "She vowed to kill Elijah.",
+      "The dogs ate her flesh.",
+      "Obadiah hid 100 prophets from her.",
+      "She painted her eyes with black paint."
+    ]
+  },
+  {
+    "name": ["Dathan", "Abiram"],
+    "clues": [
+      "Two sons of Eliab.",
+      "They accused Moses of making himself a ruler.",
+      "They were with Korah in a fight against Moses.",
+      "The earth swallowed them up and their houseolds."
+    ]
+  },
+  {
+    "name": ["Aaron"],
+    "clues": [
+      "He spoke against Moses for marrying a Cushite Woman.",
+      "The Nile turned to blood when struct with his rod.",
+      "His son, Eleazer, succeed his as priest in Israel.",
+      "His son, Nadab and Abihu, were killed by Jehovah."
+    ]
+  },
+  {
+    "name": ["Samson"],
+    "clues": [
+      "He carried the doors of the city gate to the top of the mountain.",
+      "He ate honey out of a lion's corpse.",
+      "Son of Manoah.",
+      "He struck down 1000 men with a fresh jawbone of a male donkey."
+    ]
+  },
+  {
+    "name": ["Samuel"],
+    "clues": [
+      "He anointed David as King.",
+      "He set up a stone and called it Ebenezer.",
+      "He was confirmed has Jehovah's prophet.",
+      "The people asked him to appoint a king over them."
+    ]
+  },
+  {
+    "name": ["Jeremiah"],
+    "clues": [
+      "Son of Hilkiah, the priest.",
+      "He pronounced woe to the shepherds.",
+      "He said he was just a boy",
+      "In his writting is the illustration of the potter."
+    ]
+  },
+  {
+    "name": ["Naomi"],
+    "clues": [
+      "Wife of Elimelech.",
+      "She had two sons, Mahlon and Chilion who died.",
+      "Mother-in-law of ruth.",
+      "She asked to be called Mara, for the Almighty has made life very bitter for her."
+    ]
+  },
+  {
+    "name": ["Isaac"],
+    "clues": [
+      "His wife was Rebekah.",
+      "Son of Abraham and Sarah.",
+      "Paul called him son of the free woman.",
+      "He was 60 years old when his twin sons were born."
+    ]
+  },
+  {
+    "name": ["Joshua"],
+    "clues": [
+      "The minister of Moses.",
+      "The son of Nun.",
+      "Successor of Moses.",
+      "He was to read the book of the law in an undertone."
+    ]
+  },
+  {
+    "name": ["Rebekah"],
+    "clues": [
+      "Isaac's wife.",
+      "Laban's sister.",
+      "Daughter of Bethuel.",
+      "Her sons were Jacob and Esau."
+    ]
+  },
+  {
+    "name": ["Lazarus"],
+    "clues": [
+      "Mary and Martha's brother.",
+      "He had been dead for four days when Jesus ressurected him.",
+      "The one to whom Jesus had affection.",
+      "He would not have died if Jesus had been there."
+    ]
+  },
+  {
+    "name": ["Job"],
+    "clues": [
+      "Greatest of all the people of the East.",
+      "He was an upright man of integrity, fearing God and shunning what is bad.",
+      "His ten children died in a windstorm.",
+      "His wife told him to curse God and die.",
+      "He was known for his endurance."
+    ]
+  },
+  {
+    "name": ["Jephthah"],
+    "clues": [
+      "A might warrior and son of Gilead.",
+      "A judge whose mother had been a prostitue.",
+      "He vowed to offer up the first one coming out of his house.",
+      "He struck down 20 cities and subdued the Ammonites."
+    ]
+  },
+  {
+    "name": ["Gabriel"],
+    "clues": [
+      "He was sent to give Daniel insight and understand.",
+      "He announced the coming birth of John the Baptizer.",
+      "The only materialized angel to give his name.",
+      "He appeared like a man to Daniel."
+    ]
+  },
+  {
+    "name": ["James"],
+    "clues": [
+      "Overseer in the congregation at jerusalem.",
+      "Jesus's Fleshly brother",
+      "Son of Joseph and Mary",
+      "Paul gave him a detailed account of his ministry.",
+      "He wrote about the wisdom from above."
+    ]
+  },
+  {
+    "name": ["Abel"],
+    "clues": [
+      "Adam and Eve's second son.",
+      "He was a shepherd; his brother was a cultivator of the ground.",
+      "Although he died, he still speaks through his faith.",
+      "The first person slaughtered for having righteous work.",
+      "Listed by Paul as the first man of faith."
+    ]
+  },
+  {
+    "name": ["Ezekiel"],
+    "clues": [
+      "The son of Buzi the priest.",
+      "He ate a scroll.",
+      "God told him not to mourn his wife's death.",
+      "He saw wheels within whells.",
+      "In a vision he saw a valley full of dry bones."
+    ]
+  },
+  {
+    "name": ["Nimrod"],
+    "clues": [
+      "He was the first to become a mighty one in the earth.",
+      "The son of Cush. ",
+      "A mighty hunter in opposition to Jehovah. ",
+      "The beginning of his kingdom was babel."
+    ]
+  },
+  {
+    "name": ["Jehovah"],
+    "clues": [
+      "The Maker of heaven and earth.",
+      "Father of Jesus.",
+      "Most High over all the earth.",
+      "He is first mentioned by name at Genesis 2:4.",
+      "His name means 'he causes to become'."
+    ]
+  },
+  {
+    "name": ["Judah"],
+    "clues": [
+      "Fourth son of jacob and Leah. -Ge 29:35",
+      "He ssuggested Joseph to be sold instead of killed. -Ge 37:26,27",
+      "He was superior to his brothers. -1ch 5:2",
+      "His father (jacob) called him a lion cub. -Gen 49:9",
+      "Jesus Christ is the Lion of his tribe. -Re 5:5"
+    ]
+  },
+  {
+    "name": ["Stephen"],
+    "clues": [
+      "A man full of faith and holy spirit, divine favor and power, performing great wonders and signs. -Ac 6:5, 8",
+      "Saul approved of his murder.",
+      "First Christian martyr. ",
+      "He was stoned to death."
+    ]
+  },
+  {
+    "name": ["Benjamin"],
+    "clues": [
+      "Jacob and Rachel's son.",
+      "Esther and Mordecai were from his tribe.",
+      "Israel's first king came from his tribe.",
+      "His mom died giving birth to him.",
+      "The apostle Paul was from his tribe. "
+    ]
+  },
+  {
+    "name": ["Noah"],
+    "clues": [
+      "A rightheous man, faultless among his contemporaries.",
+      "By faith he constructed an ark. ",
+      "He was 600 years old when the floodwater came . ",
+      "Father to Shem, Ham and Japheth. "
+    ]
+  },
+  {
+    "name": ["Daniel"],
+    "clues": [
+      "This prophet undertood all sorts of dreams. ",
+      "He was also called Belteshazzar. ",
+      "Prophesied about the rise and fall of world powers. ",
+      "He would not defile himself with the king's delicacies. ",
+      "Was thrown into a lion's pit."
+    ]
+  },
+  {
+    "name": ["Luke"],
+    "clues": [
+      "The disciple who wrote the account of the ten lepers. ",
+      "He wrote about the prodigal son. ",
+      "The beloved physician. ",
+      "The only one who recorded the illustration of the neighborly Samaritan."
+    ]
+  },
+  {
+    "name": ["Dorcas"],
+    "clues": [
+      "Also called Tabitha. ",
+      "She made many garments and robes. ",
+      "Female disciple in Joppa. ",
+      "She abounded in good deeds and gifts of mercy. ",
+      "Peter resurrected her."
+    ]
+  },
+  {
+    "name": ["Nebuchadnezzar"],
+    "clues": [
+      "He dreamed about an immense image and immense tree. ",
+      "He destroyed Jerusalem. ",
+      "He made Daniel ruler in Babylon. ",
+      "He had three Hebrews thrown into a fiery furnace. "
+    ]
+  },
+  {
+    "name": ["Queen of sheba"],
+    "clues": [
+      "She came from the ends of the earth to hear Solomon.",
+      "She gave solomon 120 talents of gold. ",
+      "She came test Solomon with perpexing questions. ",
+      "She had seen all the wisdom of Solomon. "
+    ]
+  },
+  {
+    "name": ["Haman"],
+    "clues": [
+      "He sought to annihilate all the Jews. ",
+      "Mordecai would not bow to him. ",
+      "He had a stake made 50 cubits high. ",
+      "Esther exosed him to king Ahasuerus. ",
+      "He was hanged on the stake he had prepared for Mordecai."
+    ]
+  },
+  {
+    "name": ["John the baptizer"],
+    "clues": [
+      "Son of Zechariah and Elizabeth. ",
+      "He ate locusts and wild honey. ",
+      "He baptized people in the Jordan river. ",
+      "He was beheaded at the instigation of Herodias. ",
+      "He got ready for Jehovah a prepared people. "
+    ]
+  },
+  {
+    "name": ["Rahab"],
+    "clues": [
+      "A prostitute in Jericho. ",
+      "She hid two spies. ",
+      "James mentions this prostitu as one declared righteous by works.",
+      "Her house was on a city wall.",
+      "She wanted her family saved from death."
+    ]
+  },
+  {
+    "name": ["Uzziah"],
+    "clues": [
+      "He was 16 when becoming king in Judah in place of his father, Amaziah. ",
+      "He made engines of war, designed by engineers. ",
+      "It was not proper for him to burn incense to Jehovah and so he was struck with leprosy.",
+      "He build towers in Jerusalem and fortified them.",
+      "A Judean king, who was a lover of agriculture. ",
+      "He built tower in the wilderness and dug many cisterns for his live stock. "
+    ]
+  },
+  {
+    "name": ["King Herod"],
+    "clues": [
+      "He had baby boys, two years and under, killed.",
+      "He inquired as to where Christ was to be born. ",
+      "Astrologers were warned not to return to him."
+    ]
+  },
+  {
+    "name": ["John the apostle"],
+    "clues": [
+      "He and James were the 'Sons of thunder'.",
+      "Son of Zebedee and brother of James.",
+      "The disciple Loved by Jesus.",
+      "He outlived all the other apostles. ",
+      "He reclined close to Jesus during their last meal."
+    ]
+  },
+  {
+    "name": ["Isaiah"],
+    "clues": [
+      "The only Hebrew writter who spoke of Immanuel.",
+      "Hebrew prophet who wrote about new heavens and a new earth.",
+      "His wife was called 'the prophetess'.",
+      "He foretold the coming of the Prince of Peace.",
+      "He walked about naked and barefoot for three years."
+    ]
+  },
+  {
+    "name": ["Manasseh"],
+    "clues": [
+      "King of Judah, son and successor of King Hezekiah.",
+      "He was 12 years old when he became king and reigned for 55 years in Jerusalem.",
+      "He did what was bad in Jehovah's eyes.",
+      "He made his sons pass through the fire.",
+      "He begged Jehovah for favor and kept humbling himself greatly."
+    ]
+  },
+  {
+    "name": ["Leah"],
+    "clues": [
+      "The wife Jacob loved less.",
+      "Oldest daughter of Laban.",
+      "Her eyes had no luster. ",
+      "Two of her sons were Levi and Judah."
+    ]
+  },
+  {
+    "name": ["Goliath"],
+    "clues": [
+      "He taunted the battle lines of Israel.",
+      "His height was six cubits and a span.",
+      "The Philistine champion from Gath.",
+      "David killed him with a stone from his sling."
+    ]
+  },
+  {
+    "name": ["Elijah"],
+    "clues": [
+      "The Tishbite from Gilead.",
+      "He performed the first recorded ressurection. ",
+      "Ravens fed him.",
+      "He annointed Elisha as prophet to take his place.",
+      "He ascended to the heavens in a windstorm"
+    ]
+  },
+  {
+    "name": ["Tamar"],
+    "clues": [
+      "She disguised herself as a harlot to Judah.",
+      "Her twin sons were Perez and Zerah.",
+      "Her husbands Er and Onan were put to death by Jehovah."
+    ]
+  },
+  {
+    "name": ["Delilah"],
+    "clues": [
+      "A woman in the Valley of Sorek.",
+      "The Philistines asked her to trick Samson.",
+      "The Philistines brought up to her seven fresh bowstrings.",
+      "She tied a man with new ropes."
+    ]
+  },
+  {
+    "name": ["Asa"],
+    "clues": [
+      "Jehoshaphat's father.",
+      "His heart was complete with Jehovah all his life. ",
+      "An extraordinarily great funeral burning was made for him.",
+      "He defeated one million Ethiopians. ",
+      "He was told his activity would be rewarded."
+    ]
+  },
+  {
+    "name": ["Hagar"],
+    "clues": [
+      "Sarai's Egyptian servant. ",
+      "Her son was Ishmael. ",
+      "She ran away from Sarai. ",
+      "She despised Sarah. "
+    ]
+  },
+  {
+    "name": ["Martha"],
+    "clues": [
+      "Sister of Lazarus and Mary.",
+      "She served at an evening meal prepared for Jesus.",
+      "She was distacted with attending to many duties.",
+      "Jesus said she was anxious and disturbed about many things."
+    ]
+  },
+  {
+    "name": ["Pilate"],
+    "clues": [
+      "Govenor of Judea during the time of Christ.",
+      "He mixed the blood of Galileans with Sacrifices.",
+      "His wife told him to have nothing to do with that righteous man (Jesus). ",
+      "He wanted to release Jesus. "
+    ]
+  },
+  {
+    "name": ["Moses"],
+    "clues": [
+      "Jehovah made him like God to Pharaoh. ",
+      "He was instructed in all the wisdom of the Egyptians. ",
+      "He was by far the meekest of all the men. ",
+      "He brought the Israelites out of Egypt. ",
+      "Nobody knows where his grave is down to this day. ",
+      "He spoke rashly at the waters of Meribah. "
+    ]
+  },
+  {
+    "name": ["Jonah"],
+    "clues": [
+      "A prophet, the son of Amitai.",
+      "Twice he was told to go to Nineveh.",
+      "He ran away from Jehovah.",
+      "Jehovah sent a huge fish to swallow him.",
+      "Out of the depths of the Grave he cried for help."
+    ]
+  },
+  {
+    "name": ["Samuel"],
+    "clues": [
+      "Son of Elkanah and Hannah. ",
+      "He anointed David as King. ",
+      "He was confirmed as Jehivah's prophet.",
+      "He was 'in favor both with Jehovah and with the people.",
+      "The people asked him to appoint a king over them. "
+    ]
+  },
+  {
+    "name": ["Enoch"],
+    "clues": [
+      "He lived 365 years.",
+      "Jared's son.",
+      "He was no more, God took him.",
+      "By faith he was transfered so as not to see death."
+    ]
+  },
+  {
+    "name": ["Michael"],
+    "clues": [
+      "The only one called 'archangel'. ",
+      "He battle with the dragon and his angels. ",
+      "He had a difference with the Devil about Mose's body. ",
+      "He is called one of the foremost princes."
+    ]
+  },
+  {
+    "name": ["Zacchaeus"],
+    "clues": [
+      "He joyfully welcome Jesus as a guest. ",
+      "He gave half of his belongings to the poor.",
+      "A rich man of Jericho. ",
+      "A chef tax collector. ",
+      "He was short.",
+      "He ran ahead and climbed a sycamore tree so he could see Jesus. "
+    ]
+  },
+  {
+    "name": ["Matthew"],
+    "clues": [
+      "A tax collector and one of the twelve apostles of Jesus.",
+      "His record of the Sermon of the Mount is the longest.",
+      "He spread a big reception feast.",
+      "He traced Jesus' genealogy through Joseph."
+    ]
+  },
+  {
+    "name": ["Laban"],
+    "clues": [
+      "Father of Leah and Rachel.",
+      "Rebekah's brother.",
+      "Jacob agreed to serve him seven years for Rachel.",
+      "The Aramaean."
+    ]
+  },
+  {
+    "name": ["Naaman"],
+    "clues": [
+      "Chief of Syria's army and a leper.",
+      "The only leper cleansed during Elisha's time.",
+      "A prominent man before his lord and held in esteem because through him Jehovah gave victory to Syria.",
+      "His flesh was restored like the flesh of a little boy."
+    ]
+  },
+  {
+    "name": ["Eve"],
+    "clues": [
+      "Mother of everyone living.",
+      "Adam's wife.",
+      "She was named after her sin.",
+      "Jehovah built her from a rib.",
+      "She was thoroughly deceived."
+    ]
+  },
+  {
+    "name": ["Caleb"],
+    "clues": [
+      "The son of Jephunneh.",
+      "He spied out the promised land with Joshua.",
+      "At 85, he said he was as strong as when he was 40.",
+      "He gave his daughter Achsah to Othniel for capturing a city"
+    ]
+  },
+  {
+    "name": ["Lot"],
+    "clues": [
+      "Abraham's nephew.",
+      "His wife became a pillar of salt.",
+      "He was greatly distressed by the brazen conduct of the lawless people.",
+      "He chose for himself the whole District of the Jordan.",
+      "His herdsmen quarreled with Abraham's herdsmen."
+    ]
+  },
+  {
+    "name": ["Uriah"],
+    "clues": [
+      "The Hittie husband of Bath-sheba.",
+      "David got him drunk. ",
+      "He slept at the entrance of the king's house instead of going to his own house. ",
+      "He was put in the front lines where the fighting was fiercest and died. "
+    ]
+  },
+  {
+    "name": ["Eli"],
+    "clues": [
+      "He judged Israel as priest for 40 years.",
+      "Father of Hophni and Phinehas.",
+      "Samuel ministered thought Hannah was drunk.",
+      "He fell of his seat backward, broke his neck and died.",
+      "He sons were wicked men who had no regard for Jehovah."
+    ]
+  },
+  {
+    "name": ["Cornelius"],
+    "clues": [
+      "An army officer of the Italian unit.",
+      "A devout man of Caesarea who feared God.",
+      "A man well-reported-on by the whole nation of the Jews.",
+      "The first Gentile convert to Christianity.",
+      "He and his houseold received holy spirit.",
+      "He sent men to Joppa to summon Peter."
+    ]
+  },
+  {
+    "name": ["Esau"],
+    "clues": [
+      "Son of Isaac and he loved him because it meant game in his mouth.",
+      "A skilled hunter, a man of the field. ",
+      "Jehovah hated him but loved his brother, Jacob.",
+      "He did not appreciate sacred things.",
+      "He sold his birthright for bread and lentil stew."
+    ]
+  },
+  {
+    "name": ["Rachel"],
+    "clues": [
+      "The younger daughter of Laban.",
+      "She was a very attractive and beautiful woman.",
+      "The wife Jacob loved.",
+      "Her son was Joseph.",
+      "She died giving birth to Benjamin.",
+      "She and Leah built the house of Israel."
+    ]
+  },
+  {
+    "name": ["Deborah"],
+    "clues": [
+      "A female judge in Israel. ",
+      "A prophetess, the wife of Lappidoth. ",
+      "She told Barak that Sisera would be given into his hand.",
+      "She sang a song with Barak."
+    ]
+  },
+  {
+    "name": ["Paul"],
+    "clues": [
+      "A Jew, of Tarsus in Cilicia.",
+      "He was given a thorn in the flesh.",
+      "He spoke in the midst of the Areopagus.",
+      "He wrote fourteen Bible books",
+      "He corrected Cephas."
+    ]
+  },
+  {
+    "name": ["Shulammite girl"],
+    "clues": [
+      "She was as beautiful as the full moon.",
+      "She was dark and swarthy.",
+      "She was like a lily among thorns.",
+      "Solomon called her 'my flawless one'."
+    ]
+  },
+  {
+    "name": ["Euodia"],
+    "clues": [
+      "Paul exhorted her to be of the same mind in the Lord.",
+      "she had striven side by side with paul and Clement."
+    ]
+  },
+  {
+    "name": ["Syntyche"],
+    "clues": [
+      "Paul exhorted her to be of the same mind in the Lord.",
+      "she had striven side by side with paul and Clement."
+    ]
+  },
+  {
+    "name": ["Judah iscariot"],
+    "clues": [
+      "He betrayed Jesus. ",
+      "Jesus called him a slanderer.",
+      "He is listed last among the twelve apostles.",
+      "He threw silver pieces into the temple and hanged himself.",
+      "He was a guide to those who arrested Jesus."
+    ]
+  },
+  {
+    "name": ["Elizabeth"],
+    "clues": [
+      "Zechariah's wife.",
+      "Mother of John the Baptizer.",
+      "She said her son would be called John."
+    ]
+  },
+  {
+    "name": ["Esther"],
+    "clues": [
+      "Her Hebrew name was Hadassah.",
+      "She was beautifully formed and attractive in appearance.",
+      "Mordecai took her as his daughter.",
+      "Ahasuerus made her queen instead of Vashti.",
+      "She wept at Ahasuerus' feet and pleaded with him."
+    ]
+  },
+  {
+    "name": ["Jonathan"],
+    "clues": [
+      "He loved David as himself.",
+      "David loved him more than the love from women.",
+      "His crippled son's name was Mephibosheth.",
+      "He and his father(Saul) were swifter than eagles.",
+      "He told david: 'You will be king over Israel and i will become second to you.' "
+    ]
+  },
+  {
+    "name": ["Mary"],
+    "clues": [
+      "The mother of Jesus.",
+      "She was among those persisting in prayer in the upper room at pentecost 33 C.E ",
+      "She called herself Jehovah's slave girl . ",
+      "She went to Egypt with her husband and son."
+    ]
+  },
+  {
+    "name": ["Abigail"],
+    "clues": [
+      "She was discerning and beautiful.",
+      "Nabal's wife. ",
+      "Her husband was a worthless man.",
+      "She pleaded David not to shell blood without cause.",
+      "She was blessed for her good sense."
+    ]
+  },
+  {
+    "name": ["Peter"],
+    "clues": [
+      "He and his brother, Andrew, were fishermen.",
+      "He resurrected Dorcas.",
+      "He preached to Cornelius.",
+      "He was given the keys of the Kingdom.",
+      "Jesus told him to feed and shepherd his sheep."
+    ]
+  },
+  {
+    "name": ["Philip(apostle)"],
+    "clues": [
+      "An apostle from Bethsaida, the city of Andew and Peter.",
+      "He found Nathanael.",
+      "He ask Jesus to show them the Father.",
+      "He is usually listed together with Bartholomew."
+    ]
+  },
+  {
+    "name": ["Sarah"],
+    "clues": [
+      "Abraham's first wife.",
+      "Mother of Isaac.",
+      "She called her husband lord.",
+      "Jehovah plagued Pharaoh because of her."
+    ]
+  },
+  {
+    "name": ["Jehu"],
+    "clues": [
+      "He drove his chariot like a madman.",
+      "Anointed as king by Elisha's attendant.",
+      "He was told to strike down the house of Ahab.",
+      "At his order, Jezebel was thrown from a window."
+    ]
+  },
+  {
+    "name": ["Satan"],
+    "clues": [
+      "He was a murderer when he began.",
+      "He is called the accuser of our brothers.",
+      "Also known as Beelzebub, ruler of the demons.",
+      "He walks about like a lion to devour someone. ",
+      "He will bound for 1,000 years."
+    ]
+  },
+  {
+    "name": ["Philip(evangelist)"],
+    "clues": [
+      "The evangelizer.",
+      "He had four unmaried daughters who prophesied.",
+      "He explained Isaiah to an Ethiopian eunuch.",
+      "He declared the good news to all the cities from Ashdod to Caesarea."
+    ]
+  },
+  {
+    "name": ["Bath-sheba"],
+    "clues": [
+      "Solomon's mother. ",
+      "Wife of Uriah the Hittite. ",
+      "Later she became wife of David.",
+      "Solomon had a throne set for her.",
+      "Mothered Shimea, Shobab, and Nathan in Jerusalem."
+    ]
+  },
+  {
+    "name": ["Adam"],
+    "clues": [
+      "The first man who became a living person and who was created in God's image.",
+      "In him all are dying.",
+      "He named every wild animal, domestic animal, and flying creature.",
+      "He lived 930 years.",
+      "Eve's husband."
+    ]
+  },
+  {
+    "name": ["Balaam"],
+    "clues": [
+      "Balak asked his to curse Israel.",
+      "Son of Beor at Pethor.",
+      "He loved the reward of wrongdoing.",
+      "His donkey spoke to him."
+    ]
+  },
+  {
+    "name": ["Thomas"],
+    "clues": [
+      "Jesus' apostle.",
+      "Jesus told him to stop doubting.",
+      "Called 'The Twin'.",
+      "He urges his fellow disciples: 'Let us go, so that we may die with (jesus)."
+    ]
+  },
+  {
+    "name": ["Mary magdalene"],
+    "clues": [
+      "Seven demons came out of her.",
+      "She continued sitting before Jesus' grave with Mary.",
+      "She brought the news that she had seen the lord.",
+      "She came with the othe Mary to view Jesus' grave."
+    ]
+  },
+  {
+    "name": ["Joseph"],
+    "clues": [
+      "Jacob's first son by Rachel.",
+      "Jacob Loved him more than all his other sons. ",
+      "Sold to the Ishmaelites for 20 silver pieces. ",
+      "He said interpretation belong to God.",
+      "Pharoah put him over all the land of Egypt.",
+      "He left his garment in the hand of Potiphar's wife."
+    ]
+  },
+  {
+    "name": ["Dathan", "Abiram"],
+    "clues": [
+      "Two sons of Eliab.",
+      "They accused Moses of making himself a ruler.",
+      "The eath swallowed them up and their households.",
+      "They were with Korah in a fight against Moses."
+    ]
+  },
+  {
+    "name": ["Mary -Lazurus' sister"],
+    "clues": [
+      "She wiped Jesus' feet dry with her hair.",
+      "She sat down at the feet of Jesus.",
+      "When he saw her weeping, Jesus groaned within himself.",
+      "Jesus said she chose the good portion."
+    ]
+  },
+  {
+    "name": ["Shadrach", "Meshach", "Abednego"],
+    "clues": [
+      "Companion of Daniel.",
+      "Youth without any defect.",
+      "Him and his friends told the king they would not serve his gods.",
+      "Thrown into the burning fiery furnace.",
+      "Trusted their God would rescue them."
+    ]
+  }
+]
