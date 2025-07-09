@@ -9,7 +9,7 @@ interface ClueItem {
 const QuizQuestions = () => {
   const [history, setHistory] = useState<ClueItem[]>([]);
   const [currentIndex, setCurrentIndex] = useState<number>(-1);
-  const [showAnswer, setShowAnswer] = useState(false);
+  const [showAnswer, setShowAnswer] = useState(false); // add a simple comment
 
   const fetchRandomItem = () => {
     axios
